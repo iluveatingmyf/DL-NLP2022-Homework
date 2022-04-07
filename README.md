@@ -3,7 +3,7 @@
 ___作业索引___
 ---------------
 + DL-NLP2022-Homework-Liuqiange.pdf 作业一的实验报告
-+ /dataset 数据库存储目录，内涵金庸小说
++ /dataset 数据库存储目录，内含金庸小说
 + preprocess.py 语料库预处理代码，运行后将处理后的预料存储至processed_content.txt文件
 + entropy_calculating_word.py 以词为单位计算平均信息熵
 + entropy_calculating_char.py 以字为单位计算平均信息熵
