@@ -18,4 +18,4 @@ ___代码说明___
 ###运行说明
 + processed_content.txt文件中的编码（code line 27），因为我使用的设备是Mac M1，编码使用的是gb18030。若您为windows系统，烦请更换为ANSI，否则可能存在问题。
 
-+ entropy_calculating_word.py 与entropy_calculating_char.py 文件中的mode参数表示n-gram的N，可在函数入口自行更换后运行；
++ entropy_calculating_word.py 与entropy_calculating_char.py 文件中的mode参数表示n-gram的N，可在函数入口自行更换后运行。
